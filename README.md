@@ -1,5 +1,5 @@
 # Belarusian-Polytopia
-<h3 align="left">Custom # Belarusian-Polytopia translation for the game The Battle of Polytopia.</h3>
+<h3 align="left">Custom Belarusian translation for the game The Battle of Polytopia.</h3>
 <h2 align="left">Installation instructions</h2>
 1. Open settings;
 2. Select in languages «Сustom»;
