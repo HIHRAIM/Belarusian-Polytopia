@@ -399,7 +399,7 @@
     "gamemode.domination": "Дамінацыя",
     "gamemode.domination.caps": "ДАМІНАЦЫЯ",
     "gamemode.domination.description": "Сатрыце ўсе астатнія плямёны з твару Свету. Застацца можа толькі мацнейшы!",
-    "gamemode.domination.description.button": "<p>Гуляйце, пакуль не застанецца толькі адно племя, без абмежавання па часу.</p>",
+    "gamemode.domination.description.button": "<a>Гуляйце, пакуль не застанецца толькі адно племя, без абмежавання па часу.</a>",
     "gamemode.domination.loss": "Ваш апошні горад быў страчаны, вы панеслі паразу.",
     "gamemode.domination.win": "Вы перамаглі ўсе астатнія плямёны і аб'ядналі ўвесь свет!",
     "gamemode.glory": "Слава",
